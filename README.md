@@ -13,7 +13,7 @@ public class assign8 {
             	 fact=fact*i;
             }
             	System.out.println(fact);
-            
+            system.out.println("asha");
 	}
 
 }
